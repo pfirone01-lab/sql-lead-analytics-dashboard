@@ -1,0 +1,91 @@
+id,name,email,company,lead_source,status,created_at,score
+1,Kevin Brown,kevin.brown@globexinc.com,Globex Inc,Trade Show,Contacted,2025-02-05 23:06:00,63
+2,Deborah Lewis,deborah.lewis@meridianhealth.com,Meridian Health,Referral,Proposal Sent,2025-01-09 00:05:00,66
+3,Joseph Taylor,joseph.taylor@harborviewconsulting.com,Harborview Consulting,Website Form,Qualified,2025-07-03 20:44:00,79
+4,Mark Davis,mark.davis@zephyrlogistics.com,Zephyr Logistics,Email Campaign,Contacted,2025-08-11 00:48:00,30
+5,George Wilson,george.wilson@bluthcompany.com,Bluth Company,Trade Show,New,2025-07-15 10:06:00,25
+6,Anthony Brown,anthony.brown@monstersinc.com,Monsters Inc,Webinar,Proposal Sent,2025-07-26 01:46:00,74
+7,Andrew Brown,andrew.brown@weyland-yutani.com,Weyland-Yutani,Referral,Qualified,2025-08-01 20:39:00,68
+8,Joshua Miller,joshua.miller@starkindustries.com,Stark Industries,Website Form,Proposal Sent,2025-07-17 09:05:00,87
+9,Joseph Ramirez,joseph.ramirez@hooli.com,Hooli,Google Ads,Contacted,2025-06-12 11:10:00,43
+10,Matthew Miller,matthew.miller@vandelayindustries.com,Vandelay Industries,Referral,Proposal Sent,2025-02-13 17:46:00,67
+11,William Anderson,william.anderson@weyland-yutani.com,Weyland-Yutani,Trade Show,Closed Lost,2025-06-13 22:35:00,24
+12,Amanda Hernandez,amanda.hernandez@umbrellagroup.com,Umbrella Group,LinkedIn,Closed Won,2025-07-26 10:25:00,88
+13,John Miller,john.miller@summitanalytics.com,Summit Analytics,Webinar,Contacted,2025-05-08 12:56:00,61
+14,Sandra Jones,sandra.jones@tyrellcorp.com,Tyrell Corp,Cold Call,Contacted,2025-05-24 17:16:00,67
+15,Donna Wilson,donna.wilson@vertexrobotics.com,Vertex Robotics,Google Ads,Contacted,2025-02-05 16:31:00,25
+16,Ronald Johnson,ronald.johnson@piedpiper.com,Pied Piper,Cold Call,Proposal Sent,2025-07-22 21:27:00,79
+17,John Gonzalez,john.gonzalez@weyland-yutani.com,Weyland-Yutani,Email Campaign,Closed Lost,2025-05-16 08:35:00,10
+18,Amanda White,amanda.white@piedpiper.com,Pied Piper,Partner Referral,Negotiation,2025-07-16 20:21:00,63
+19,Charles Wilson,charles.wilson@cyberdynesystems.com,Cyberdyne Systems,Content Download,New,2025-07-04 23:16:00,52
+20,Ronald Garcia,ronald.garcia@silverlinemedia.com,Silverline Media,Referral,Closed Won,2025-03-18 20:32:00,99
+21,Richard Jones,richard.jones@buynlarge.com,Buy N Large,Cold Call,Qualified,2025-07-19 16:58:00,45
+22,Kenneth Hernandez,kenneth.hernandez@ironcladsystems.com,Ironclad Systems,Website Form,New,2025-04-03 09:15:00,23
+23,Jessica Lewis,jessica.lewis@summitanalytics.com,Summit Analytics,Referral,New,2025-05-05 02:48:00,54
+24,Stephanie Jones,stephanie.jones@massivedynamic.com,Massive Dynamic,Content Download,Closed Lost,2025-02-12 08:33:00,48
+25,Margaret Miller,margaret.miller@meridianhealth.com,Meridian Health,LinkedIn,Negotiation,2025-04-13 21:41:00,71
+26,Donald Lewis,donald.lewis@quantumretail.com,Quantum Retail,Content Download,New,2025-02-27 02:21:00,21
+27,Donna Moore,donna.moore@oscorp.com,Oscorp,Email Campaign,Contacted,2025-01-19 22:40:00,23
+28,Joseph Williams,joseph.williams@initech.com,Initech,Webinar,New,2025-03-02 08:42:00,51
+29,Susan Moore,susan.moore@massivedynamic.com,Massive Dynamic,Email Campaign,Qualified,2025-03-04 15:51:00,71
+30,Richard Brown,richard.brown@hooli.com,Hooli,Google Ads,Contacted,2025-04-16 14:55:00,66
+31,Patricia Perez,patricia.perez@hooli.com,Hooli,Website Form,Qualified,2025-03-28 03:15:00,57
+32,Richard Moore,richard.moore@zephyrlogistics.com,Zephyr Logistics,Cold Call,Qualified,2025-03-13 14:15:00,49
+33,Donald Sanchez,donald.sanchez@cascadefinancial.com,Cascade Financial,Referral,New,2025-05-19 00:05:00,68
+34,Jessica Garcia,jessica.garcia@gekko&co.com,Gekko & Co,Content Download,Qualified,2025-08-10 12:57:00,48
+35,William Gonzalez,william.gonzalez@acmecorp.com,Acme Corp,Google Ads,Contacted,2025-07-20 14:18:00,47
+36,George White,george.white@cascadefinancial.com,Cascade Financial,Content Download,New,2025-03-17 06:03:00,57
+37,Deborah Moore,deborah.moore@umbrellagroup.com,Umbrella Group,Webinar,New,2025-05-30 15:32:00,53
+38,William Johnson,william.johnson@silverlinemedia.com,Silverline Media,Referral,Closed Won,2025-01-18 19:04:00,87
+39,Betty Brown,betty.brown@summitanalytics.com,Summit Analytics,LinkedIn,Qualified,2025-01-11 19:05:00,71
+40,Brian Jackson,brian.jackson@summitanalytics.com,Summit Analytics,Partner Referral,Contacted,2025-03-08 06:42:00,65
+41,Daniel Davis,daniel.davis@tyrellcorp.com,Tyrell Corp,Google Ads,New,2025-06-15 09:29:00,40
+42,Ronald Robinson,ronald.robinson@starkindustries.com,Stark Industries,Website Form,Qualified,2025-05-25 03:04:00,79
+43,Susan Taylor,susan.taylor@tyrellcorp.com,Tyrell Corp,Cold Call,Closed Lost,2025-08-14 02:56:00,25
+44,Lisa Martinez,lisa.martinez@cyberdynesystems.com,Cyberdyne Systems,Content Download,Closed Won,2025-06-30 09:39:00,100
+45,Kimberly Smith,kimberly.smith@cascadefinancial.com,Cascade Financial,Trade Show,Closed Lost,2025-01-27 04:16:00,17
+46,Michael White,michael.white@cascadefinancial.com,Cascade Financial,Cold Call,Contacted,2025-06-04 06:45:00,41
+47,Susan Perez,susan.perez@oakridgerealty.com,Oakridge Realty,Trade Show,Qualified,2025-03-06 01:05:00,72
+48,Sarah Johnson,sarah.johnson@acmecorp.com,Acme Corp,Webinar,Negotiation,2025-06-13 08:10:00,83
+49,Donald Moore,donald.moore@multinationalunited.com,Multinational United,Partner Referral,New,2025-01-20 22:57:00,29
+50,Andrew Johnson,andrew.johnson@buynlarge.com,Buy N Large,Email Campaign,Qualified,2025-04-21 04:02:00,64
+51,Lisa Lewis,lisa.lewis@initech.com,Initech,Webinar,Contacted,2025-03-05 21:06:00,42
+52,Stephanie Moore,stephanie.moore@gekko&co.com,Gekko & Co,Email Campaign,Negotiation,2025-08-25 07:55:00,65
+53,Barbara Lewis,barbara.lewis@gekko&co.com,Gekko & Co,Website Form,New,2025-08-25 10:50:00,46
+54,Brian Ramirez,brian.ramirez@lexcorp.com,LexCorp,Trade Show,New,2025-06-29 03:24:00,22
+55,Steven Davis,steven.davis@wonkaindustries.com,Wonka Industries,Content Download,Contacted,2025-07-30 07:14:00,21
+56,Brian Miller,brian.miller@nakatomitrading.com,Nakatomi Trading,Webinar,Contacted,2025-01-18 08:22:00,61
+57,Paul Gonzalez,paul.gonzalez@meridianhealth.com,Meridian Health,Webinar,Closed Lost,2025-01-30 08:11:00,47
+58,Thomas Johnson,thomas.johnson@hooli.com,Hooli,Email Campaign,Qualified,2025-07-06 10:27:00,77
+59,Linda Gonzalez,linda.gonzalez@summitanalytics.com,Summit Analytics,LinkedIn,Contacted,2025-07-01 13:00:00,53
+60,Andrew Perez,andrew.perez@wonkaindustries.com,Wonka Industries,Webinar,Qualified,2025-06-20 10:39:00,65
+61,Brian Ramirez,brian.ramirez@piedpiper.com,Pied Piper,Trade Show,Qualified,2025-06-20 13:20:00,70
+62,George Martinez,george.martinez@cascadefinancial.com,Cascade Financial,Cold Call,New,2025-06-20 12:43:00,67
+63,Barbara Martin,barbara.martin@summitanalytics.com,Summit Analytics,Trade Show,Qualified,2025-08-02 00:19:00,63
+64,Susan Wilson,susan.wilson@vertexrobotics.com,Vertex Robotics,Email Campaign,Proposal Sent,2025-04-30 14:28:00,81
+65,Susan Taylor,susan.taylor@brightpathsolutions.com,BrightPath Solutions,Cold Call,Proposal Sent,2025-03-14 16:42:00,80
+66,Michelle Hernandez,michelle.hernandez@wayneenterprises.com,Wayne Enterprises,LinkedIn,Proposal Sent,2025-02-27 06:09:00,60
+67,Robert Davis,robert.davis@brightpathsolutions.com,BrightPath Solutions,Email Campaign,Closed Won,2025-01-19 14:26:00,100
+68,Joshua Miller,joshua.miller@weyland-yutani.com,Weyland-Yutani,Content Download,Contacted,2025-02-07 20:44:00,20
+69,Ronald Ramirez,ronald.ramirez@hooli.com,Hooli,Google Ads,Contacted,2025-07-25 22:33:00,49
+70,Patricia Moore,patricia.moore@lexcorp.com,LexCorp,Referral,Qualified,2025-07-25 14:42:00,78
+71,Emily Martin,emily.martin@sterlingcooper.com,Sterling Cooper,Content Download,Proposal Sent,2025-07-04 16:27:00,86
+72,Emily Anderson,emily.anderson@cyberdynesystems.com,Cyberdyne Systems,Content Download,Qualified,2025-07-12 07:53:00,62
+73,Stephanie Harris,stephanie.harris@quantumretail.com,Quantum Retail,Content Download,Proposal Sent,2025-03-12 14:04:00,82
+74,Charles Davis,charles.davis@vandelayindustries.com,Vandelay Industries,Webinar,Contacted,2025-05-19 02:08:00,29
+75,Joseph Gonzalez,joseph.gonzalez@soylentcorp.com,Soylent Corp,LinkedIn,New,2025-04-15 10:34:00,49
+76,Mark Johnson,mark.johnson@gringottsltd.com,Gringotts Ltd,Google Ads,Contacted,2025-07-17 18:44:00,21
+77,Ronald Jackson,ronald.jackson@weyland-yutani.com,Weyland-Yutani,Content Download,New,2025-04-01 09:48:00,44
+78,Mark Moore,mark.moore@meridianhealth.com,Meridian Health,Email Campaign,Closed Won,2025-05-05 07:17:00,93
+79,Ashley Smith,ashley.smith@weyland-yutani.com,Weyland-Yutani,Webinar,Proposal Sent,2025-07-24 12:46:00,65
+80,Sandra Robinson,sandra.robinson@massivedynamic.com,Massive Dynamic,Email Campaign,Qualified,2025-08-21 12:37:00,46
+81,Jennifer Lee,jennifer.lee@multinationalunited.com,Multinational United,Cold Call,Closed Won,2025-02-16 01:16:00,92
+82,Daniel Miller,daniel.miller@northwindtraders.com,Northwind Traders,Webinar,Contacted,2025-08-14 12:17:00,68
+83,Mark Rodriguez,mark.rodriguez@wayneenterprises.com,Wayne Enterprises,Content Download,New,2025-05-19 01:22:00,34
+84,Carol Williams,carol.williams@initech.com,Initech,Website Form,Closed Lost,2025-02-21 00:39:00,19
+85,Jessica Jones,jessica.jones@brightpathsolutions.com,BrightPath Solutions,Referral,Qualified,2025-02-25 14:44:00,61
+86,Stephanie Lopez,stephanie.lopez@cyberdynesystems.com,Cyberdyne Systems,Email Campaign,Proposal Sent,2025-07-11 22:07:00,84
+87,William Martinez,william.martinez@hooli.com,Hooli,Email Campaign,New,2025-03-21 18:43:00,44
+88,Betty Thompson,betty.thompson@wonkaindustries.com,Wonka Industries,Referral,Proposal Sent,2025-08-01 20:15:00,63
+89,George Harris,george.harris@dundermifflin.com,Dunder Mifflin,Email Campaign,Closed Won,2025-07-23 18:50:00,81
+90,Matthew Moore,matthew.moore@multinationalunited.com,Multinational United,Webinar,New,2025-06-15 10:00:00,46
